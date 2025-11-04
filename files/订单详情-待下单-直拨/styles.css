@@ -976,10 +976,10 @@
   top:0px;
   width:390px;
   height:674px;
+  overflow:auto;
+  -webkit-overflow-scrolling:touch;
   -ms-overflow-x:hidden;
   overflow-x:hidden;
-  -ms-overflow-y:hidden;
-  overflow-y:hidden;
   background-image:none;
   border:none;
   border-radius:0px;
